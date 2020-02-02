@@ -17,6 +17,12 @@
     "flair-e2e": {
       "tags": [],
       "implicitDependencies": ["flair"]
+    },
+    "ui": {
+      "tags": []
+    },
+    "core": {
+      "tags": []
     }
   }
 }
