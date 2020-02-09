@@ -1,6 +1,6 @@
 {
   "name": "@flair-test/core",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "peerDependencies": {
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14"
@@ -9,5 +9,5 @@
     "access": "public",
     "directory": "../../dist/libs/core"
   },
-  "gitHead": "552b3f2d741149276410dd52cc142d9c0f28d6f1"
+  "gitHead": "3cef3bf97eae72b5899bd14b2ca824e1bf5564d0"
 }
