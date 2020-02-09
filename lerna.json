@@ -8,7 +8,6 @@
       "conventionalCommits": true,
       "yes": true,
       "message": "chore(release): publish",
-      "contents": "dist/libs/*"
     },
     "version": {
       "push": true
