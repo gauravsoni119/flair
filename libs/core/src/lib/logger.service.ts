@@ -10,4 +10,7 @@ export class LoggerService {
   log(message: string) {
     console.log(`Core:: ${message}`);
   }
+  error(message: string) {
+    console.error(`Core:: ${message}`);
+  }
 }
