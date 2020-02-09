@@ -5,5 +5,7 @@
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14"
   },
-  "gitHead": "5bd52d8e5c1b433e6a38257bc6f567abb84c55ba"
+  "publishConfig": {
+    "access": "public"
+  }
 }

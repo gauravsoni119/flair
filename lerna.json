@@ -9,9 +9,6 @@
       "yes": true,
       "message": "chore(release): publish %s"
     },
-    "publishConfig": {
-      "access": "public"
-    },
     "version": {
       "push": true
     }
