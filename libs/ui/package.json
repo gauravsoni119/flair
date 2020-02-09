@@ -1,12 +1,13 @@
 {
   "name": "@flair-test/ui",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "peerDependencies": {
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "directory": "../../dist/libs"
   },
-  "gitHead": "9e4d0e4b8931e5b57dfeda0f1355143d0288c99b"
+  "gitHead": "41030a5d2e9b37849f2a2eec508f5b85a92ee9be"
 }

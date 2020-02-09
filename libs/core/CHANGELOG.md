@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.4](https://github.com/gauravsoni119/flair/compare/@flair-test/core@0.3.3...@flair-test/core@0.3.4) (2020-02-09)
+
+**Note:** Version bump only for package @flair-test/core
+
+
+
+
+
 ## [0.3.3](https://github.com/gauravsoni119/flair/compare/@flair-test/core@0.3.2...@flair-test/core@0.3.3) (2020-02-09)
 
 **Note:** Version bump only for package @flair-test/core
