@@ -1,5 +1,4 @@
 import { Component, OnInit, Input } from '@angular/core';
-import { LoggerService } from '../../../../core/src/lib/logger.service';
 
 @Component({
   selector: 'flair-button',
@@ -10,7 +9,7 @@ export class ButtonComponent implements OnInit {
 
   @Input() type: 'primary' | 'secondary';
 
-  constructor(private loggerService: LoggerService) { }
+  constructor() { }
 
   ngOnInit() {
   }
