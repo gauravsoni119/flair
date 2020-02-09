@@ -6,10 +6,11 @@
   "command": {
     "publish": {
       "conventionalCommits": true,
-      "message": "chore(release): release"
+      "yes": true,
+      "message": "chore(release): publish %s"
     },
     "version": {
-      "push": false
+      "push": true
     }
   }
 }

@@ -25,7 +25,8 @@
     "update": "ng update @nrwl/workspace",
     "workspace-schematic": "nx workspace-schematic",
     "dep-graph": "nx dep-graph",
-    "help": "nx help"
+    "help": "nx help",
+    "publish:libs": "lerna version --conventional-commits --yes"
   },
   "private": true,
   "dependencies": {
