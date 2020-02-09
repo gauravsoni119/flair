@@ -7,6 +7,7 @@
     "nx": "nx",
     "start": "ng serve",
     "build": "ng build",
+    "build:libs": "ng build ui && ng build core",
     "build:lib:ui": "ng build ui",
     "test": "ng test",
     "lint": "nx workspace-lint && ng lint",
