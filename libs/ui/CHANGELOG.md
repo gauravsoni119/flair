@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.5](https://github.com/gauravsoni119/flair/compare/@flair/ui@0.0.4...@flair/ui@0.0.5) (2020-02-09)
+
+
+### Bug Fixes
+
+* update logger ([25a3bc1](https://github.com/gauravsoni119/flair/commit/25a3bc1edd732217b1bd3fefaeb50e822549d84a))
+
+
+
+
+
 ## [0.0.4](https://github.com/gauravsoni119/flair/compare/@flair/ui@0.0.3...@flair/ui@0.0.4) (2020-02-09)
 
 **Note:** Version bump only for package @flair/ui
