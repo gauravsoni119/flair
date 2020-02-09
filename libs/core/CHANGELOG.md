@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.1](https://github.com/gauravsoni119/flair/compare/@flair-test/core@0.3.0...@flair-test/core@0.3.1) (2020-02-09)
+
+
+### Bug Fixes
+
+* **core:** add return type ([479fe34](https://github.com/gauravsoni119/flair/commit/479fe3492ce845e778bf1f35ee7ce89fafcbfc05))
+
+
+
+
+
 # 0.3.0 (2020-02-09)
 
 
