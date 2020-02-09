@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/gauravsoni119/flair/compare/@flair/core@0.1.1...@flair/core@0.2.0) (2020-02-09)
+
+
+### Features
+
+* add error method to logger ([de0fc64](https://github.com/gauravsoni119/flair/commit/de0fc648c6131ac0e26145f151953945ace64aab))
+
+
+
+
+
 ## [0.1.1](https://github.com/gauravsoni119/flair/compare/@flair/core@0.1.0...@flair/core@0.1.1) (2020-02-09)
 
 
