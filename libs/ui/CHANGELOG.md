@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0 (2020-02-09)
+
+
+### Bug Fixes
+
+* update logger ([25a3bc1](https://github.com/gauravsoni119/flair/commit/25a3bc1edd732217b1bd3fefaeb50e822549d84a))
+* **button:** fix typo ([70c6f50](https://github.com/gauravsoni119/flair/commit/70c6f50b057ddd113f0e23314f324cf12d5048a8))
+
+
+### Features
+
+* add error method to logger ([de0fc64](https://github.com/gauravsoni119/flair/commit/de0fc648c6131ac0e26145f151953945ace64aab))
+
+
+
+
+
 ## [0.1.1](https://github.com/gauravsoni119/flair/compare/@flair/ui@0.1.0...@flair/ui@0.1.1) (2020-02-09)
 
 **Note:** Version bump only for package @flair/ui
