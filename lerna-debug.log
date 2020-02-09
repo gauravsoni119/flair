@@ -1,0 +1,6 @@
+64 error Error: Command failed: git push --follow-tags --no-verify --atomic origin master
+64 error remote: Invalid username or password.
+64 error fatal: Authentication failed for 'https://github.com/gauravsoni119/flair.git/'
+64 error
+64 error     at makeError (/home/gaurav/.nvm/versions/node/v10.13.0/lib/node_modules/lerna/node_modules/execa/index.js:174:9)
+64 error     at Promise.all.then.arr (/home/gaurav/.nvm/versions/node/v10.13.0/lib/node_modules/lerna/node_modules/execa/index.js:278:16)
