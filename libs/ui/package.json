@@ -1,5 +1,5 @@
 {
-  "name": "@flair/ui",
+  "name": "@flair-test/ui",
   "version": "0.1.1",
   "peerDependencies": {
     "@angular/common": "^8.2.14",
@@ -7,5 +7,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "ad13ddc47bea3da7830a0a7e611f2ac829aebd41"
 }
