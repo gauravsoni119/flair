@@ -7,7 +7,7 @@
     "publish": {
       "conventionalCommits": true,
       "yes": true,
-      "message": "chore(release): publish"
+      "message": "chore(release): publish %s [skip travis]"
     },
     "version": {
       "push": true
