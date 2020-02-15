@@ -2,6 +2,9 @@
   "packages": [
     "libs/*"
   ],
+  "lifecycle": {
+    "version": "npm run affected:libs"
+  },
   "version": "independent",
   "command": {
     "publish": {
