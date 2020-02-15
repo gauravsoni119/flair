@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/gauravsoni119/flair/compare/@flair-test/core@0.4.5...@flair-test/core@0.5.0) (2020-02-15)
+
+
+### Features
+
+* **logger:** add info method ([790e0fe](https://github.com/gauravsoni119/flair/commit/790e0fe4a4e13c762370553719c0e1be962bdfba))
+
+
+
+
+
 ## [0.4.5](https://github.com/gauravsoni119/flair/compare/@flair-test/core@0.4.4...@flair-test/core@0.4.5) (2020-02-15)
 
 **Note:** Version bump only for package @flair-test/core
