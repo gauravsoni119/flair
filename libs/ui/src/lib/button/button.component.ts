@@ -11,6 +11,7 @@ export class ButtonComponent implements OnInit {
   @Input() class: string;
   @Input() text: string | undefined;
   @Input() icon: string | undefined;
+  @Input() disabled: boolean;
 
   constructor() { }
 
