@@ -5,6 +5,9 @@
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14"
   },
+  "scripts": {
+    "postpublish": "rm -rf dist/"
+  },
   "publishConfig": {
     "access": "public",
     "directory": "../../dist/libs/ui"
