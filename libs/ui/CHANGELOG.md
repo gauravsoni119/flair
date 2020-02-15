@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.12.0](https://github.com/gauravsoni119/flair/compare/@flair-test/ui@0.11.0...@flair-test/ui@0.12.0) (2020-02-15)
+
+
+### Features
+
+* **button:** update code ([5accfb9](https://github.com/gauravsoni119/flair/commit/5accfb932c99ea2c345d9678232e3d3e65994704))
+
+
+
+
+
 # [0.11.0](https://github.com/gauravsoni119/flair/compare/@flair-test/ui@0.9.0...@flair-test/ui@0.11.0) (2020-02-15)
 
 
