@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.6.0](https://github.com/gauravsoni119/flair/compare/@flair-test/ui@0.5.2...@flair-test/ui@0.6.0) (2020-02-15)
+
+
+### Features
+
+* **button:** add classes ([fa340b7](https://github.com/gauravsoni119/flair/commit/fa340b7cf4836eafaae33aea816a1434e4b3bfea))
+
+
+
+
+
 ## [0.5.2](https://github.com/gauravsoni119/flair/compare/@flair-test/ui@0.5.1...@flair-test/ui@0.5.2) (2020-02-15)
 
 **Note:** Version bump only for package @flair-test/ui
