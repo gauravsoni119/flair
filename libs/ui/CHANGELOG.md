@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.7.0](https://github.com/gauravsoni119/flair/compare/@flair-test/ui@0.5.2...@flair-test/ui@0.7.0) (2020-02-15)
+
+
+### Bug Fixes
+
+* **button:** add text ([e8a3412](https://github.com/gauravsoni119/flair/commit/e8a34127282e11a26476cdc2eb3ea47149aba953))
+
+
+### Features
+
+* **button:** add classes ([fa340b7](https://github.com/gauravsoni119/flair/commit/fa340b7cf4836eafaae33aea816a1434e4b3bfea))
+* **button:** add Disable attr ([088dcaa](https://github.com/gauravsoni119/flair/commit/088dcaaa2ff7148858b81466f9def99a4ae3dbac))
+* **button:** disable button ([b3837b3](https://github.com/gauravsoni119/flair/commit/b3837b3325d509e1a8dbed354fb0fcb75453d445))
+
+
+
+
+
 # [0.6.0](https://github.com/gauravsoni119/flair/compare/@flair-test/ui@0.5.2...@flair-test/ui@0.6.0) (2020-02-15)
 
 
