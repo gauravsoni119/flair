@@ -13,6 +13,7 @@ export class ButtonComponent implements OnInit {
   @Input() icon: string | undefined;
   @Input() disabled: boolean;
   @Input() loading: boolean;
+  @Input() autoFocus: boolean;
 
   constructor() { }
 
