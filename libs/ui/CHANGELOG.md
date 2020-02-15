@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.10.0](https://github.com/gauravsoni119/flair/compare/@flair-test/ui@0.9.0...@flair-test/ui@0.10.0) (2020-02-15)
+
+
+### Features
+
+* **button:** autofocus ([9cde930](https://github.com/gauravsoni119/flair/commit/9cde930f9beb4db03ad26678d46277144396ca41))
+
+
+
+
+
 # [0.9.0](https://github.com/gauravsoni119/flair/compare/@flair-test/ui@0.8.0...@flair-test/ui@0.9.0) (2020-02-15)
 
 
