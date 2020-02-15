@@ -27,7 +27,7 @@
     "workspace-schematic": "nx workspace-schematic",
     "dep-graph": "nx dep-graph",
     "help": "nx help",
-    "publish:libs": "lerna publish from-git --conventional-commits --force-publish --yes"
+    "publish:libs": "lerna publish from-package --conventional-commits --force-publish --yes"
   },
   "private": true,
   "dependencies": {
