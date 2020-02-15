@@ -6,11 +6,11 @@
     "@angular/core": "^8.2.14"
   },
   "scripts": {
+    "build": "ng build ui",
     "postpublish": "rm -rf dist/"
   },
   "publishConfig": {
-    "access": "public",
-    "directory": "../../dist/libs/ui"
+    "access": "public"
   },
   "gitHead": "eba7e5cc58a55d23cf5721422c38950feb9906c6"
 }

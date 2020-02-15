@@ -130,7 +130,7 @@
         "build": {
           "builder": "@nrwl/angular:package",
           "options": {
-            "tsConfig": "libs/ui/tsconfig.lib.json",
+            "tsConfig": "tsconfig.lib.json",
             "project": "libs/ui/ng-package.json"
           }
         },
@@ -168,7 +168,7 @@
         "build": {
           "builder": "@nrwl/angular:package",
           "options": {
-            "tsConfig": "libs/core/tsconfig.lib.json",
+            "tsConfig": "tsconfig.lib.json",
             "project": "libs/core/ng-package.json"
           }
         },
