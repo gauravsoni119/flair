@@ -8,7 +8,7 @@ install:
 
 script:
   - npm run test
-  - npm run affected:libs
+  - npm run affected:build
 
 before_deploy:
   - git config --global user.email ${GITHUB_EMAIL}
