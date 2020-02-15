@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.9.0](https://github.com/gauravsoni119/flair/compare/@flair-test/ui@0.8.0...@flair-test/ui@0.9.0) (2020-02-15)
+
+
+### Features
+
+* **button:** add loader ([c89abd2](https://github.com/gauravsoni119/flair/commit/c89abd264bcea0328604a5059fa70d76fa38c702))
+
+
+
+
+
 # [0.8.0](https://github.com/gauravsoni119/flair/compare/@flair-test/ui@0.7.1...@flair-test/ui@0.8.0) (2020-02-15)
 
 
