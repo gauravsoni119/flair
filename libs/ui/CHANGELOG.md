@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.2](https://github.com/gauravsoni119/flair/compare/@flair-test/ui@0.5.1...@flair-test/ui@0.5.2) (2020-02-15)
+
+**Note:** Version bump only for package @flair-test/ui
+
+
+
+
+
 ## [0.5.1](https://github.com/gauravsoni119/flair/compare/@flair-test/ui@0.5.0...@flair-test/ui@0.5.1) (2020-02-15)
 
 **Note:** Version bump only for package @flair-test/ui
