@@ -16,4 +16,7 @@ export class LoggerService {
   warn(message: string): void {
     console.warn(`Core:: ${message}`);
   }
+  info(message: string): void {
+    console.log(`Core:: ${message}`);
+  }
 }
