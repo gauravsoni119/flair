@@ -5,12 +5,9 @@
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14"
   },
-  "scripts": {
-    "build": "ng build core",
-    "postpublish": "rm -rf dist/"
-  },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "directory": "../../dist/libs/core"
   },
   "gitHead": "eba7e5cc58a55d23cf5721422c38950feb9906c6"
 }
