@@ -16,7 +16,7 @@
     "lerna:build": "lerna run build",
     "affected:apps": "nx affected:apps",
     "affected:libs": "nx affected:libs",
-    "affected:build:pr": "nx affected:build --base=origin/master --head=$TRAVIS_PULL_REQUEST_BRANCH",
+    "affected:build:pr": "npm run build:libs --base=origin/master --head=input-component",
     "affected:build": "nx affected:build --base=origin/master~1 --head=origin/master",
     "affected:e2e": "nx affected:e2e",
     "affected:test": "nx affected:test",
