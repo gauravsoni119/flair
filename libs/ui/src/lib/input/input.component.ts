@@ -10,6 +10,7 @@ export class InputComponent implements OnInit {
   @Input() classes: string | undefined;
   @Input() disable: boolean;
   @Input() name: string | undefined;
+  @Input() value: string;
 
   constructor() { }
 
