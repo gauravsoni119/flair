@@ -6,6 +6,10 @@ cache: npm
 install:
   - npm install
 
+branches:
+  only:
+    - master
+
 script:
   - npm run test
   - npm run affected:build
