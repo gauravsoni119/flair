@@ -12,7 +12,8 @@ branches:
 
 script:
   - npm run test
-  - npm run affected:build
+  - 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then npm run affected:build:pr; fi'
+  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then npm run affected:build; fi'
 
 before_deploy:
   - git config --global user.email ${GITHUB_EMAIL}
