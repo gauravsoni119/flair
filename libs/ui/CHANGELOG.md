@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.16.1](https://github.com/gauravsoni119/flair/compare/@flair-test/ui@0.16.0...@flair-test/ui@0.16.1) (2020-02-16)
+
+
+### Bug Fixes
+
+* update input and logger ([6947f87](https://github.com/gauravsoni119/flair/commit/6947f87d0f29ac44ca529344c37397e60ad61f4e))
+
+
+
+
+
 # [0.16.0](https://github.com/gauravsoni119/flair/compare/@flair-test/ui@0.15.0...@flair-test/ui@0.16.0) (2020-02-16)
 
 

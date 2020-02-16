@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.8](https://github.com/gauravsoni119/flair/compare/@flair-test/core@0.5.7...@flair-test/core@0.5.8) (2020-02-16)
+
+
+### Bug Fixes
+
+* update input and logger ([6947f87](https://github.com/gauravsoni119/flair/commit/6947f87d0f29ac44ca529344c37397e60ad61f4e))
+
+
+
+
+
 ## [0.5.7](https://github.com/gauravsoni119/flair/compare/@flair-test/core@0.5.6...@flair-test/core@0.5.7) (2020-02-16)
 
 **Note:** Version bump only for package @flair-test/core
