@@ -10,12 +10,15 @@ export class LoggerService {
   log(message: string): void {
     console.log(`Core:: ${message}`);
   }
+
   error(message: string): void {
     console.error(`Core:: ${message}`);
   }
+
   warn(message: string): void {
     console.warn(`Core:: ${message}`);
   }
+
   info(message: string): void {
     console.log(`Core:: ${message}`);
   }
