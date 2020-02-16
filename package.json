@@ -29,7 +29,7 @@
     "workspace-schematic": "nx workspace-schematic",
     "dep-graph": "nx dep-graph",
     "help": "nx help",
-    "publish:libs": "lerna publish --contents dist --conventional-commits --yes --skip-npm"
+    "publish:libs": "lerna publish --contents dist --conventional-commits --yes"
   },
   "private": true,
   "dependencies": {
