@@ -8,6 +8,7 @@ import { Component, OnInit, Input } from '@angular/core';
 export class InputComponent implements OnInit {
 
   @Input() classes: string | undefined;
+  @Input() disable: boolean;
 
   constructor() { }
 
