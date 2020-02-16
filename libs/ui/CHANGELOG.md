@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.17.0](https://github.com/gauravsoni119/flair/compare/@flair-test/ui@0.16.1...@flair-test/ui@0.17.0) (2020-02-16)
+
+
+### Features
+
+* add option to disable input ([6c5f439](https://github.com/gauravsoni119/flair/commit/6c5f4398a1bc9714119ebb47e45895d14303acce))
+
+
+
+
+
 ## [0.16.1](https://github.com/gauravsoni119/flair/compare/@flair-test/ui@0.16.0...@flair-test/ui@0.16.1) (2020-02-16)
 
 
