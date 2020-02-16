@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.16.0](https://github.com/gauravsoni119/flair/compare/@flair-test/ui@0.15.0...@flair-test/ui@0.16.0) (2020-02-16)
+
+
+### Features
+
+* **input:** add input componnent ([e249110](https://github.com/gauravsoni119/flair/commit/e24911093960436dd5e7733c448902569c39e9cb))
+
+
+
+
+
 # [0.15.0](https://github.com/gauravsoni119/flair/compare/@flair-test/ui@0.14.0...@flair-test/ui@0.15.0) (2020-02-16)
 
 
