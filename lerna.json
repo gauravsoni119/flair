@@ -9,8 +9,7 @@
       "yes": true
     },
     "version": {
-      "push": true,
-      "message": "chore(release): publish %s [skip travis]"
+      "message": "chore(release): publish %v [skip travis]"
     }
   }
 }
