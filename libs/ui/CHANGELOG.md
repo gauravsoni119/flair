@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.18.0](https://github.com/gauravsoni119/flair/compare/@flair-test/ui@0.17.1...@flair-test/ui@0.18.0) (2020-02-17)
+
+
+### Features
+
+* **input:** add option to pass value ([852f402](https://github.com/gauravsoni119/flair/commit/852f402d028c91bde3ec87692805174f76568b84))
+
+
+
+
+
 ## [0.17.1](https://github.com/gauravsoni119/flair/compare/@flair-test/ui@0.17.0...@flair-test/ui@0.17.1) (2020-02-16)
 
 
