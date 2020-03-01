@@ -30,7 +30,7 @@
     "workspace-schematic": "nx workspace-schematic",
     "dep-graph": "nx dep-graph",
     "help": "nx help",
-    "publish:libs": "lerna publish --conventional-commits --yes"
+    "publish:libs": "lerna publish"
   },
   "private": true,
   "dependencies": {
