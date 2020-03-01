@@ -30,4 +30,8 @@ export class LoggerService {
   table(message: string): void {
     console.table(`Core:: ${message}`);
   }
+
+  count(message: string): void {
+    console.count(`Core:: ${message}`);
+  }
 }
