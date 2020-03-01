@@ -22,4 +22,12 @@ export class LoggerService {
   info(message: string): void {
     console.log(`Core:: ${message}`);
   }
+
+  group(message: string): void {
+    console.group(`Core:: ${message}`);
+  }
+
+  table(message: string): void {
+    console.table(`Core:: ${message}`);
+  }
 }
