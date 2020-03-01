@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.7.0](https://github.com/gauravsoni119/flair/compare/@flair-test/core@0.6.0...@flair-test/core@0.7.0) (2020-03-01)
+
+
+### Features
+
+* add count method to logger and update the input component ([5e2df15](https://github.com/gauravsoni119/flair/commit/5e2df1592e1e7cd6ac667512dd1587839005f0b6))
+
+
+
+
+
 # [0.6.0](https://github.com/gauravsoni119/flair/compare/@flair-test/core@0.5.8...@flair-test/core@0.6.0) (2020-03-01)
 
 
